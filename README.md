@@ -16,6 +16,7 @@ http://flussonic.example.com/MyChannelName/video.m3u8?token=pll1jhg9g1l3j08iufhv
 http://flussonic.example.com:501/MyChannelName/video-1715958013-now.m3u8?token=pll1jhg9g1l3j08iufhv60wtxhw
 ```
 
-Разработчик:
-https://www.mediatech.dev/
-https://www.mediatech.by/
+## Разработчик
+
+- https://www.mediatech.dev/
+- https://www.mediatech.by/
